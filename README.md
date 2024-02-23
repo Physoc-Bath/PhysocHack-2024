@@ -2,11 +2,11 @@
 The second edition of Physoc's yearly Hackathon with an Astro theme.
 
 ## Timetable
-9'30 - 10'00: Welcome and introduction to the challenge
-10'00 - 17'00: Active coding time (we will have lunch and you are welcome to take as many breaks as you want)
-17'00 - 18'00: Presentations
-18'00 - 18'30: Break - time for judges to discuss prizes
-18'30 - 19'00: Closing ceremony and prizes
+9'30 - 10'00: Welcome and introduction to the challenge <br />
+10'00 - 17'00: Active coding time (we will have lunch and you are welcome to take as many breaks as you want) <br />
+17'00 - 18'00: Presentations <br />
+18'00 - 18'30: Break - time for judges to discuss prizes <br />
+18'30 - 19'00: Closing ceremony and prizes <br />
 
 ## The challenge
 The 2023 challenge has 2 phases:
