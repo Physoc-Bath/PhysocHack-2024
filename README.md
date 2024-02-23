@@ -20,7 +20,7 @@ The 2023 challenge has 2 phases:
 If you have never contributed to a Github repo here are some instructions: https://git-scm.com/book/en/v2/GitHub-Contributing-to-a-Project 
 Feel free to ask the committee for help if you need it!
 
-## Juging criteria
+## Judging criteria
 1) You must submit a filled and working Phase 1 notebook: 80% completition is the requirement. Please do reach out to the committee during the event if you are really struggling.
 2) Teams will present their results during the presentation round. The presentation time will depend on the number of teams, but for now we estimate presentations to be 10 minutes.
 3) Presentations must consist of the extension work. They will be judged based on originality and quality of the work.
