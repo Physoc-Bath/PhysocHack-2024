@@ -28,7 +28,7 @@ Feel free to ask the committee for help if you need it!
 Be original! Have fun! And collaborate with like-minded incredible young scientists!
 
 ## References
-Data origin: https://github.com/QiaoyaWu/sdss4_dr16q_tutorial
+Data origin: https://github.com/QiaoyaWu/sdss4_dr16q_tutorial <br />
 Phase 1 original author: Dr. Carolin Villforth
 
 ## Sponsors
