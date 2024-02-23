@@ -9,7 +9,7 @@ The second edition of Physoc's yearly Hackathon with an Astro theme.
 18'30 - 19'00: Closing ceremony and prizes <br />
 
 ## The challenge
-The 2023 challenge has 2 phases:
+The 2023 challenge has 2 phases: <br />
     * Phase 1: **The black hole basics** 
     Jupyter Notebook (made by the amazing Dr. Carolin Villforth - with some slight changes regarding the updated data sets and certain code lines). The submission of this notebook is mandatory for arriving in phase 1. The time alloted for coding should be sufficient for the submission of this complete notebook, therefore the completition of the notebook will be used as the requirement for the participation award. <br />
     * Phase 2: **Extensions:** Show us what you can do! 
