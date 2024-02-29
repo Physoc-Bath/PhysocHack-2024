@@ -1,6 +1,6 @@
 # Extensions
 
-1) BALs (road Absorption Light Quasars)
+1) BALs (Broad Absorption Light Quasars)
 2) Black Hole Kinematics
 3) Eco/Reverberation Mapping
 4) Update Phase 1 with the latest data
