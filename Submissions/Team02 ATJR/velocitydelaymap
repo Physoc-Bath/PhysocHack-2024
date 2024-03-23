@@ -1,0 +1,31 @@
+import numpy as np
+import matplotlib.pyplot as plt
+
+c = 3*(10**8)
+r = np.arange(1, 100, 1)
+r = r*(10**15)
+
+theta = np.arange(0, 360, 0.1)
+
+def tau(r):
+    tau = (1 + np.cos(theta))*(r/c)
+    return tau
+
+def vel(r):
+    vel = (r**(-0.5))*np.sin(theta)
+    return vel
+
+norm = plt.Normalize(r.min(), r.max())
+cmap = plt.cm.get_cmap('viridis')
+
+for x in r:
+    t = tau(x)
+    v = vel(x)
+    color = cmap(norm(x))
+    plt.scatter(v, t, s=0.1, color=color)
+
+plt.xlabel('Velocity')
+plt.ylabel('Time Delay')
+plt.title('BH Velocity-Delay Map')
+# plt.colorbar(label='BLR Radius')
+plt.show()
