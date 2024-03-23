@@ -32,4 +32,4 @@ Data origin: https://github.com/QiaoyaWu/sdss4_dr16q_tutorial <br />
 Phase 1 original author: Dr. Carolin Villforth
 
 ## Sponsors
-This year's Hackathon has been sponsored by: xxx
+This year's Hackathon has been sponsored by: Optica (Bath University Chapter)
